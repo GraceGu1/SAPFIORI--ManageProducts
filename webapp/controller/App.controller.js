@@ -4,7 +4,7 @@ sap.ui.define([
 	], function(Controller, utilities) {
 	"use strict";
 	/*
-        Controller for the view hosting this app
+        Controller for the view hosting this app  
     */
 	return Controller.extend("nw.epm.refapps.purchaseorders.approve.controller.App", {
 
